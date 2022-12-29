@@ -49,8 +49,6 @@
                                                 </subviews>
                                                 <constraints>
                                                     <constraint firstItem="E9Y-59-Ovg" firstAttribute="centerY" secondItem="m6O-W0-EG4" secondAttribute="centerY" id="6uo-9H-At7"/>
-                                                    <constraint firstItem="Ww3-gX-q0J" firstAttribute="centerX" secondItem="m6O-W0-EG4" secondAttribute="centerX" id="cRq-FU-tFO"/>
-                                                    <constraint firstItem="E9Y-59-Ovg" firstAttribute="centerX" secondItem="m6O-W0-EG4" secondAttribute="centerX" id="g4M-Tx-MTX"/>
                                                     <constraint firstItem="Ww3-gX-q0J" firstAttribute="centerY" secondItem="m6O-W0-EG4" secondAttribute="centerY" id="mMT-Zq-u84"/>
                                                 </constraints>
                                             </stackView>
